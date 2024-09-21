@@ -1,0 +1,12 @@
+while loop 1
+while loop 3
+while loop 4
+do-while loop 1
+do-while loop 2
+do-while loop 3
+for loop 4
+for loop 4
+for loop 4
+foreach loop 1
+foreach loop 2
+foreach loop 3
